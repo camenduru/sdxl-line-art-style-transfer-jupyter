@@ -18,6 +18,7 @@ https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet <br />
 https://github.com/camenduru/ComfyUI_SLK_joy_caption_two <br />
 
 ### 🖼 Output
+![Screenshot 2024-11-30 073704](https://github.com/user-attachments/assets/e2887433-5297-4a43-99f5-b04571bb2eb5)
 
 ### 🏢 Sponsor
 https://modelslab.com
