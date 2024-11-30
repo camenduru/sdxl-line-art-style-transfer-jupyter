@@ -7,6 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-line-art-style-transfer-jupyter/blob/main/sdxl_line_art_style_transfer_jupyter.ipynb) | sdxl_line_art_style_transfer_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-line-art-style-transfer-jupyter/blob/main/sdxl_line_art_style_transfer_comfyui_jupyter.ipynb) | sdxl_line_art_style_transfe_comfyui_jupyter
 
 ### 🧬 Code
 https://github.com/comfyanonymous/ComfyUI <br />
